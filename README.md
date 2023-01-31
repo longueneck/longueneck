@@ -1,6 +1,14 @@
 ## Longueneck™ --> iOS Dev Jr
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Hello+world;Welcome;i'm+Kevin+Longue;Swift+Developer+by+Apple;BackFront+Acaddemy+Student)](https://git.io/typing-svg)
+
+- 👩🏻‍💻 Foccused in Swift and iOS Dev;
+- 📚 Learning:
+        C
+        WEB Developer -> HTML, CSS.
+        Swift : UIKit & SwiftUI - Storyboard/ViewCode 
+
 <div align="center">   
   <a href="https://instagram.com/kevinlongue" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/xpXu6hz4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
