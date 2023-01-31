@@ -16,14 +16,11 @@
   <a href="https://www.linkedin.com/in/kevinlongue-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
-
-<br/>
-
 <div align=center">
 <div align="center">
   <a href="https://github.com/longueneck">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=longueneck&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longueneck&layout=compact&langs_count=7&theme=dark"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=longueneck&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longueneck&layout=compact&langs_count=7&theme=dark"/>
   </div>  
   
    <br/>                                                                                                                                          
