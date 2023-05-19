@@ -1,4 +1,4 @@
-## Longueneck™ --> iOS Dev Jr
+<div>Longueneck™</div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Hello+world;Welcome;i'm+Kevin+Longue;Swift+Developer+by+Apple;BackFront+Academy+Student)](https://git.io/typing-svg)
