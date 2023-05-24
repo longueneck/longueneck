@@ -3,7 +3,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Hello+world;Welcome;i'm+Kevin+Longue;Swift+Developer+by+Apple;BackFront+Academy+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Hello+world;Welcome;i'm+Kevin+Longue;iOS+Developer)](https://git.io/typing-svg)
 
 <div align="center" margin-top: >   
   <a href="https://instagram.com/kevinlongue" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
